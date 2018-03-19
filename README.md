@@ -23,9 +23,6 @@ http://openaccess.thecvf.com/content_cvpr_2017/papers/Moosavi-Dezfooli_Universal
 * Shrivastava, A., Pfister, T., Tuzel, O., Susskind, J., Wang, W., & Webb, R. (2017, July). Learning from simulated and unsupervised images through adversarial training. In The IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2017) (Vol. 3, No. 4, p. 6).
 http://openaccess.thecvf.com/content_cvpr_2017/papers/Shrivastava_Learning_From_Simulated_CVPR_2017_paper.pdf
 
-* Shaham, U., Yamada, Y., & Negahban, S. (2015). Understanding adversarial training: Increasing local stability of neural nets through robust optimization. arXiv preprint arXiv:1511.05432.
-https://arxiv.org/pdf/1511.05432.pdf
-
 * Elsayed, G. F., Shankar, S., Cheung, B., Papernot, N., Kurakin, A., Goodfellow, I., & Sohl-Dickstein, J. (2018). Adversarial Examples that Fool both Human and Computer Vision. arXiv preprint arXiv:1802.08195.
 https://arxiv.org/pdf/1802.08195.pdf
 
@@ -56,6 +53,12 @@ https://arxiv.org/pdf/1610.00768.pdf
 * Huang, S., Papernot, N., Goodfellow, I., Duan, Y., & Abbeel, P. (2017). Adversarial attacks on neural network policies. arXiv preprint arXiv:1702.02284.
 https://arxiv.org/pdf/1702.02284.pdf
 http://rll.berkeley.edu/adversarial/
+
+* (-SERKAN-) Miyato, T., Maeda, S. I., Koyama, M., & Ishii, S. (2017). Virtual adversarial training: a regularization method for supervised and semi-supervised learning. arXiv preprint arXiv:1704.03976.
+https://arxiv.org/pdf/1704.03976.pdf
+
+* (-ALİCAN-)Shaham, U., Yamada, Y., & Negahban, S. (2015). Understanding adversarial training: Increasing local stability of neural nets through robust optimization. arXiv preprint arXiv:1511.05432.
+https://arxiv.org/pdf/1511.05432.pdf
 
 
 
