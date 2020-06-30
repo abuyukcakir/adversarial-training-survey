@@ -54,10 +54,10 @@ https://arxiv.org/pdf/1610.00768.pdf
 https://arxiv.org/pdf/1702.02284.pdf
 http://rll.berkeley.edu/adversarial/
 
-* (-SERKAN-) Miyato, T., Maeda, S. I., Koyama, M., & Ishii, S. (2017). Virtual adversarial training: a regularization method for supervised and semi-supervised learning. arXiv preprint arXiv:1704.03976.
+* Miyato, T., Maeda, S. I., Koyama, M., & Ishii, S. (2017). Virtual adversarial training: a regularization method for supervised and semi-supervised learning. arXiv preprint arXiv:1704.03976.
 https://arxiv.org/pdf/1704.03976.pdf
 
-* (-ALİCAN-)Shaham, U., Yamada, Y., & Negahban, S. (2015). Understanding adversarial training: Increasing local stability of neural nets through robust optimization. arXiv preprint arXiv:1511.05432.
+* Shaham, U., Yamada, Y., & Negahban, S. (2015). Understanding adversarial training: Increasing local stability of neural nets through robust optimization. arXiv preprint arXiv:1511.05432.
 https://arxiv.org/pdf/1511.05432.pdf
 
 
